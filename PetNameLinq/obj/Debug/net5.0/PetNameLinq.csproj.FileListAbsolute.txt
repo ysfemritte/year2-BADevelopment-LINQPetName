@@ -1,0 +1,16 @@
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\bin\Debug\net5.0\PetNameLinq.exe
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\bin\Debug\net5.0\PetNameLinq.deps.json
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\bin\Debug\net5.0\PetNameLinq.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\bin\Debug\net5.0\PetNameLinq.runtimeconfig.dev.json
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\bin\Debug\net5.0\PetNameLinq.dll
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\bin\Debug\net5.0\ref\PetNameLinq.dll
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\bin\Debug\net5.0\PetNameLinq.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\obj\Debug\net5.0\PetNameLinq.csproj.AssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\obj\Debug\net5.0\PetNameLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\obj\Debug\net5.0\PetNameLinq.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\obj\Debug\net5.0\PetNameLinq.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\obj\Debug\net5.0\PetNameLinq.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\obj\Debug\net5.0\PetNameLinq.dll
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\obj\Debug\net5.0\ref\PetNameLinq.dll
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\obj\Debug\net5.0\PetNameLinq.pdb
+C:\Users\Yusuf\OneDrive\BADev\Week7\PetNameLinq\obj\Debug\net5.0\PetNameLinq.genruntimeconfig.cache
